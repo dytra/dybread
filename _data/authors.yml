@@ -1,0 +1,9 @@
+# /_data/authors.yml
+
+Dytra:
+  name: "Dytra"
+  uri: "http://dytra.github.io"
+  email: "vancielnugraha@gmail.com"
+  bio: "notorious..."
+  avatar: "/assets/images/bio-photo-2.jpg"
+  twitter: "dytranugraha"
