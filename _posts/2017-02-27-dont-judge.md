@@ -3,7 +3,7 @@ layout: single
 title:  "D'Journey #2 : Don't judge"
 date:   2017-02-27 08:00:01 +0700
 categories: djourney
-tags: nasehat ayat
+tags: nasehat
 ---
 Nats : Roma 14
 
