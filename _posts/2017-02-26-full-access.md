@@ -1,3 +1,7 @@
+---
+categories: nasehat 
+---
+
 # D'Bread #1 : Full Access
 
 Renungan dari [warungsatekamu.org](http://www.warungsatekamu.org/2017/02/akses-penuh/)

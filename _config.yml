@@ -78,30 +78,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "dytra"
+  avatar           : "/assets/images/me.jpg"
+  bio              : "my story, my journey..."
+  location         : "Salatiga"
+  email            : "vancielnugraha@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "dytraaa"
   foursquare       :
-  github           :
+  github           : "dytra"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "dytra_official"
   lastfm           :
   linkedin         :
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
-  tumblr           :
-  twitter          :
+  tumblr           : "dytra.tumblr.com"
+  twitter          : "dytra_nugraha"
   vine             :
   weibo            :
   xing             :
