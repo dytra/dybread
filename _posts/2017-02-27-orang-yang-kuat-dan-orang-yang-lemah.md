@@ -1,8 +1,8 @@
 ---
 layout: single
-title:  "Reflection #3 : Orang yang Kuat & Orang yang Lemah"
+title:  "D'Journey #3 : Orang yang Kuat & Orang yang Lemah"
 date:   2017-02-27 20:00:01 +0700
-categories: reflection 
+categories: djourney 
 tags: penginjilan nasehat suka-cita 
 ---
 
