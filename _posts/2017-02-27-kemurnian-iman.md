@@ -1,3 +1,10 @@
+---
+layout: single
+title:  "Reflection #2 : Kemurnian Iman"
+date:   2017-02-27 08:05:01 +0700
+categories: reflection 
+tags: iman kuasa-jahat 
+---
 # Reflection #2 : Kemurnian Iman
 
 Renungan dari : [e-Santapan Haria](http://e-santapanharian.com)

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Reflection #4 : Easy and Simple"
-date:   2017-02-27 06:00:01 -0700
+date:   2017-02-28 06:00:01 +0700
 categories: reflection 
 tags: pengorbanan yesus dosa
 ---

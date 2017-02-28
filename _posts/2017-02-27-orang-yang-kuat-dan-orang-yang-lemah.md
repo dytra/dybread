@@ -1,4 +1,10 @@
-# Reflection 3 : Orang yang Kuat & Orang yang Lemah
+---
+layout: single
+title:  "Reflection #3 : Orang yang Kuat & Orang yang Lemah"
+date:   2017-02-27 20:00:01 +0700
+categories: reflection 
+tags: penginjilan, nasehat, suka-cita 
+---
 
 Nats : Roma 15
 
@@ -21,4 +27,3 @@ Roma 15:20-21
 
 Ini merupakan keputusan yang sangat sulit. Saulus telah  menjadi teladan bagi kita  karena keberaniannya  untuk melayani ke berbagai daerah tanpa  mengeluh sedikitpun. Namun  yang  perlu diperhatikan bahwa Saulus  selalu  mengginjili di kota yang belum  pernah mengenal Kristus sebelumnya. Ini sangat sulit, Saya saja melayani saudara yang sudah mengenal Kristus saja cukup sulit,apalagi melayani orang yang belum mengenal Kristus sama sekali. Namun itulah yang patut diteladani dari seorang Saulus.
 
-Tags : penginjilan, nasehat, suka-cita

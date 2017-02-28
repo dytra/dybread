@@ -1,8 +1,10 @@
 ---
+title: "Reflection #1: Full Access"
 categories: nasehat 
+date: 2017-02-26 08:00:00 +0700
+categories: reflection
+tags: pengorbanan
 ---
-
-# D'Bread #1 : Full Access
 
 Renungan dari [warungsatekamu.org](http://www.warungsatekamu.org/2017/02/akses-penuh/)
 
@@ -13,4 +15,3 @@ Dalam diri kita tidak ada apa pun yang dapat memulihkan hubungan kita yang terpu
 
 > **Karena salib Kristus, kita dapat menjadi sahabat Allah**
 
-Tags: pengorbanan
