@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Reflection #4 : Siapa yang terbesar dalam Kerjaan Sorga?"
+title:  "Reflection #4 : Siapa yang terbesar dalam Kerajaan Sorga?"
 date:   2017-03-01 07:00:01 +0700
 categories: reflection 
 tags: sorga teguran yesus dosa
