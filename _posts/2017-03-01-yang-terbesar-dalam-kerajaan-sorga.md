@@ -8,7 +8,7 @@ excerpt: "Anak kecil sebagai ciptaan Allah yang Mulia yang patut diteladani"
 header:
   image: /assets/images/yang-terbesar-dalam-kerjaan-sorga.jpg
 ---
-Nats: `Matius 18` &nbsp;&nbsp;Sumber: [e-Santapan Rohani](http://www.sabda.org/publikasi/e-sh/2017/03/01)
+Nats: [Matius 18:1-11](http://alkitab.sabda.org/passage.php?passage=matius%2018:1-11) &nbsp;&nbsp;Sumber: [e-Santapan Rohani](http://www.sabda.org/publikasi/e-sh/2017/03/01)
 
 > **Matius 18:10** <br>
 > Ingatlah, jangan menganggap rendah seorang dari anak-anak kecil ini. Karena Aku berkata kepadamu: Ada malaikat mereka di sorga yang selalu memandang wajah Bapa-Ku yang di sorga
